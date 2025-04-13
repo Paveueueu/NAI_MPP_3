@@ -80,5 +80,5 @@ def load_data_with_ratios(data_path):
                         files_ratios.append({'ratio': file_ratios, 'name': file})
 
             random.shuffle(files_ratios)
-            data_dict[folder] = files_ratios
+            data_dict[folder.upper()] = files_ratios
     return data_dict
