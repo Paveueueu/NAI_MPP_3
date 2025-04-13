@@ -1,0 +1,31 @@
+Complex Instruction Set Computer (CISC; engl. für Rechner mit komplexem Befehlssatz) ist ein Designkonzept für Computerp
+rozessoren. Die Bezeichnung ist ein Retronym, das mit Einführung der RISC-Prozessoren geprägt wurde. Es bezeichnet hierb
+ei üblicherweise wie die Befehle, die einem Programmierer oder Compiler zur Verfügung stehen, wenn ein Programm für eine
+n Prozessor erstellt wird, vom Prozessor abgearbeitet werden. Dabei geht es um die Frage, ob die Befehle von dem Prozess
+or innerhalb von einem Prozessorzyklus ausgeführt werden, oder ob sie mehrere Zyklen benötigen. CISC bietet hierbei dem
+Programmierer mächtigere und komfortablere Befehle, die vom Prozessor in der Regel aber nicht in einem Zyklus bearbeitet
+ werden können. RISC bietet dagegen nur solche Befehle an, die in einem Zyklus abgearbeitet werden können.[1][2]
+Entwicklung
+
+Anfänglich wurden die Befehlssätze der Prozessoren immer umfangreicher, um auch komplexere Rechenschritte „auf einmal“ m
+it nur einem Maschinenbefehl ausführen zu können, um dadurch schneller und leistungsfähiger zu werden. Zugleich wurde da
+durch jedoch auch der Prozessor komplex und schwierig weiterzuentwickeln – und auch schwieriger zu programmieren. Viele
+Hersteller setzten zunächst auf die Mikroprogrammierung der Rechenwerke, um Problemfälle leichter korrigieren zu können
+– dennoch nahm die Komplexität immer weiter zu.[3]
+
+Die Bezeichnung CISC wurde in den 1970er Jahren von IBM gewählt, um klassische Befehlssätze von einer neuartigen Form ab
+zugrenzen, dem Reduced Instruction Set Computer (RISC). Ein CISC-Befehlssatz zeichnet sich durch viele verhältnismäßig m
+ächtige Einzelbefehle aus, wohingegen RISC zugunsten einer hohen Ausführungsgeschwindigkeit und eines niedrigeren Decodi
+eraufwands weitgehend auf komplexe Befehle verzichtet.
+
+CPUs mit CISC-Befehlssatz waren lange Zeit mikroprogrammiert. Heute findet man kaum noch mikroprogrammierte CISC-CPUs. A
+b dem Pentium Pro verfügen die Intel-Prozessoren über eine vorgeschaltete Funktionseinheit, die komplexe Befehle in RISC
+-ähnliche einfache Befehle übersetzt, die ein RISC-ähnlicher CPU-Kern dann ausführt. Je nach Hersteller und CPU werden d
+iese Einheiten ROP, Micro-Op oder µOp genannt.
+
+Beispiele für CPUs mit CISC-Befehlssatz sind der Intel 8086, der Intel 80386, der Motorola 68000, der Zilog Z80 und die
+CPUs der System-z-Reihe von IBM.
+
+Spätere Intel-Prozessoren per Pentium-Reihe stellen in gewisser Weise eine Mischform dar, da sie dem Programmierer (oder
+ Compiler) zwar nach außen komplexe Instruktionen zur Verfügung stellen, diese aber intern in RISC-Instruktionen umsetze
+ n und so die interne tatsächliche Abarbeitung auf RISC Prinzipien beruht.[3]

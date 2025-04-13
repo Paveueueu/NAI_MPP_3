@@ -1,0 +1,99 @@
+Ein Dieselmotor ist ein Verbrennungsmotor mit Kompressionszündung (Selbstzündung ohne Zündkerze), dessen Kraftstoffluftg
+emisch innerhalb der Brennkammer gebildet wird (innere Gemischbildung) und dessen Drehmoment über die Menge des eingespr
+itzten Kraftstoffes eingestellt wird (qualitative Lastbeeinflussung). Er kann mit verschiedenen Kraftstoffen, vorwiegend
+ jedoch mit Dieselkraftstoff, betrieben werden. Dieselmotoren gibt es als Zweitakt- oder Viertakt-Hubkolbenmotoren; sie
+ zeichnen sich durch einen relativ hohen Wirkungsgrad aus.
+
+Erfinder des Dieselmotors ist der deutsche Ingenieur Rudolf Diesel, der seine Überlegungen zu einem Motor mit besonders
+hohem Wirkungsgrad erstmals 1893 im Werk Theorie und Konstruktion eines rationellen Wärmemotors veröffentlichte. In den
+Jahren nach 1893 gelang es ihm in einem Labor der Maschinenfabrik Augsburg (heute MAN), allerdings nur durch Abweichen v
+on dem in seinem Buch beschriebenen Konzept, einen solchen Motor zu bauen. Durch seine in vielen Ländern angemeldeten Pa
+tente und seine rege Öffentlichkeitsarbeit wurde er zum Namensgeber des Motors sowie des zugehörigen Dieselkraftstoffs,
+eines Mitteldestillats.
+Technische Funktion
+Prinzip
+Viertaktverfahren beim Dieselmotor schematisch dargestellt
+
+Dieselmotoren sind Hubkolbenmotoren, die chemische Energie in Wärme- und kinetische Energie umwandeln. Sie können als Zw
+ei- oder Viertaktmotor konstruiert sein. Der von Rudolf Diesel erdachte Diesel-Kreisprozess ist ein thermodynamischer Ve
+rgleichsprozess für den Dieselmotor. Weil er den tatsächlichen Verbrennungsablauf nur unzureichend darstellt, zieht man
+besser den Seiliger-Prozess als Vergleichsprozess heran.[C 1] (Mehr dazu im Abschnitt Thermodynamik des Dieselmotors)
+
+Viertakt-Dieselmotoren saugen beim Ansaugtakt eine Zylinderfüllung Luft an; beim Zweitakter beginnt der „Spülvorgang“ ku
+rz bevor der Kolben den unteren Totpunkt erreicht hat und endet kurz nachdem er den unteren Totpunkt wieder verlassen ha
+t – verbranntes Abgas wird durch frische Luft ersetzt. Die frische Luft wird beim Verdichtungstakt stark komprimiert (Ve
+rhältnis beim Viertaktmotor etwa 16:1 bis 24:1)[K 1] und dadurch auf etwa 700–900 °C erhitzt (Kompressionswärme). Kurz v
+or dem oberen Totpunkt des Kolbens beginnt die Einspritzung des Kraftstoffs, der dabei in die heiße Luft im Brennraum fe
+inst verteilt und zerstäubt wird. Die hohe Temperatur reicht aus, um das Gemisch zu zünden – es ist also kein Zündfunke
+einer Zündkerze notwendig wie beim Ottomotor.
+Kennzeichen des Dieselmotors
+
+    Selbstzündung: Die Luft heizt sich durch die (annähernd) adiabate Kompression stark auf, und der in die heiße Luft e
+    ingespritzte Kraftstoff entzündet sich ohne eine externe Zündhilfe.
+    Innere Gemischbildung: Kraftstoff und Luft werden erst im Brennraum gemischt.
+    Qualitative Gemischregulierung: Die momentane Leistung wird vor allem durch Variation der eingespritzten Kraftstoffm
+    enge verändert.[LIT 1]
+    Heterogenes Gemisch: Luft und Kraftstoff sind nicht gleichmäßig im Brennraum verteilt.
+    Hohes Luftverhältnis: Der Dieselmotor arbeitet mit Luftüberschuss: λ v ≥ λ min ≥ 1 {\displaystyle \lambda _{v}\geq \
+    lambda _{\text{min}}\geq 1}
+    Verbrennungsflamme: Der Sauerstoff diffundiert bei der Verbrennung in die Flamme hinein (Diffusionsflamme).
+    Zündwilliger Kraftstoff: Dieselmotoren funktionieren am besten mit hochsiedenden, zündwilligen Kraftstoffen.
+
+Quelle[N 1]
+Kraftstoff
+
+Prinzipiell sind Dieselmotoren Vielstoffmotoren und können daher mit allen Kraftstoffen betrieben werden, die bei der Be
+triebstemperatur des Motors von der Einspritzpumpe gefördert werden können, sich gut zerstäuben lassen und für geringen
+Zündverzug eine ausreichende Zündwilligkeit haben. Das Maß der Zündwilligkeit ist die Cetanzahl, die möglichst hoch sein
+ soll.[E 1] Außerdem sollte der Heizwert hoch sein.[E 1] In der Regel besteht Dieselmotorenkraftstoff aus hochsiedenden
+ und langkettigen Kohlenwasserstoffen (C9 bis C30).[H 1] In der Praxis erfüllen (mitunter zäh-)flüssige, aus fossilen En
+ ergieträgern destillierte Kraftstoffe wie Gasöle und Teeröle mit Heizwerten zwischen ca. 38,8 und 43,5 MJ/kg diese Anfo
+ rderungen.[E 2] Außer flüssigen Kraftstoffen sind auch gasförmige Kraftstoffe geeignet.[LIT 2] Nach dem Ersten Weltkrie
+ g wurden überwiegend minderwertige, gar billige Öle als Kraftstoffe eingesetzt, weil sie nicht besteuert wurden. Bis in
+  die 1930er-Jahre waren Benzin, Petroleum, Schmieröl, Gasöl und Pflanzenöle sowie Mischungen dieser Kraftstoffe üblich.
+   Mit dem Voranschreiten der Dieselmotorentechnik wurden oft bessere, zündwillige Kraftstoffe mit Cetanzahlen von 45 bi
+   s 50 CZ unabdingbar. In der Praxis wurden Gasöl, Steinkohlenteeröl und Öl aus Kohlenschwelung genutzt.
+
+Bis in die 1940er-Jahre hinein gab es keinen durch Normen standardisierten Dieselmotorentreibstoff, erstmals wurde Diese
+lkraftstoff nach dem Zweiten Weltkrieg in der DIN 51601 für Landkraftfahrzeuge vereinheitlicht.[M 1] Seit 1993 ist Diese
+lmotorkraftstoff in der EN 590 genormt und wird schlicht Diesel genannt, die meisten Dieselmotoren (Kfz, Arbeitsgeräte)
+sind für den Betrieb mit diesem Kraftstoff ausgelegt oder können damit betrieben werden; große Schiffsdieselmotoren werd
+en auch heute noch überwiegend mit schwererem Kraftstoff betrieben (siehe Schiffsdieselöl). Dieser Kraftstoff ist in der
+ Norm ISO 8217 genormt. Für welche Kraftstoffsorten ein bestimmtes Dieselmotorenmodell ausgelegt ist, kann meist dem Bet
+ riebshandbuch entnommen werden. Einige Wirbelkammer-Motoren etwa sind für den Betrieb mit zündunwilligem Kraftstoff mit
+  besonders hohem Zündverzug ausgelegt (wie zum Beispiel Motorenbenzin).[E 3] Direkteinspritzende Dieselmotoren mit MAN-
+  M-Verfahren sind ebenfalls prinzipiell für den Betrieb mit 86-Oktan-Benzin geeignet.[M 2] Werden Dieselmotoren mit fal
+  schem Kraftstoff betrieben, dann können Verkokungen der Einspritzdüsen[E 2] oder Klopfen (Nageln)[E 3] auftreten. Veru
+  nreinigungen des Kraftstoffes, etwa durch Staub, Rost, Sand und Wasser wirken sich ebenfalls schädlich auf den Dieselm
+  otor aus, wobei Verunreinigungen durch Sand besonders ungünstig sind.[E 4]
+
+Der erste Dieselmotor war für den Gebrauch von Mineralöl konstruiert, aber auch für den Betrieb mit Petroleum, Motorenbe
+nzin und Ligroin geeignet.[D 1] Den Einsatz von Kraftstoff auf Basis von Pflanzenölen testete Rudolf Diesel im Rahmen de
+r Weltausstellung im Jahr 1900. Er berichtete darüber auf einem Vortrag vor der Institution of Mechanical Engineers of G
+reat Britain: „… auf der Pariser Weltausstellung 1900 wurde ein kleiner Diesel-Motor der Gasmotorenfabrik Deutz AG von N
+icolaus Otto gezeigt, der auf Anforderung der französischen Regierung mit Erdnussöl (Arachidöl) lief, und er arbeitete s
+o problemlos, dass nur sehr wenige Leute darauf aufmerksam wurden.“[ON 1]
+Regelung
+
+Der Dieselmotor wird im Wesentlichen durch die eingespritzte Kraftstoffmenge geregelt. Bei einer Vergrößerung der Menge
+wird entsprechend mehr Moment abgegeben, gleichzeitig sinkt das Verbrennungsluftverhältnis. Bei Turbomotoren kann parall
+el durch Anhebung des Ladedruckes auch die Luftmenge erhöht werden.
+Kraftstoffeinspritzung
+Nicht unterteilter Brennraum eines Common-Rail-Dieselmotors
+Technische Zeichnung des Zylinderkopfes eines Wirbelkammerdieselmotors mit unterteiltem Brennraum. Der Brennraum ist in
+der Mitte der Zeichnung zu sehen und besteht aus der kugelförmigen Wirbelkammer, die mit drei die Verwirbelung der Luft
+darstellenden Pfeilen im Uhrzeigersinn gekennzeichnet ist, und dem damit verbundenen Hauptbrennraum im Kolben unten rech
+ts, der flach im oberen Teil des Kolbens ausgebildet ist.
+
+Dieselmotoren haben prinzipbedingt Kraftstoffeinspritzung in den Brennraum (innere Gemischbildung), Modellmotoren und Fa
+hrradhilfsmotoren (Lohmann-Motor) mit Vergaser und Kompressionszündung werden nicht zu den Dieselmotoren gezählt. Einges
+pritzt wird der Kraftstoff kurz vor Ende des Kompressionstaktes, wenn die Luft ausreichend stark komprimiert wurde und s
+ich dadurch erhitzt hat. Dabei hängt der Verlauf des Einspritzvorganges von der Konstruktion der Einspritzdüse und des P
+umpenelementes sowie vom geometrischen Verhältnis der Einspritzleitung und des Entlastungsventils ab. Bei der Einspritzu
+ng tritt der flüssige Kraftstoff als Wolke feinstverteilter Tröpfchen in den Brennraum ein, wobei die Luft bereits Zündb
+edingungen bietet. Nur ein geringer Teil des Kraftstoffes ist in dieser Phase dampfförmig. Die einzelnen Kraftstofftröpf
+chen haben dabei unterschiedliche Größen und sind nicht gleichmäßig verteilt (heterogenes Gemisch). Damit die Zündung ei
+ntreten kann, muss Wärmeenergie aus der komprimierten Luft in die Kraftstofftröpfchen übergehen, sodass die einzelnen Tr
+öpfchen an ihrer Oberfläche verdampfen und sich eine Dampfschicht um die Kraftstofftröpfchen legt, die sich mit der Luft
+ vermischen kann. Erst ab einer lokalen Luftzahl von λ > 0 , 7 {\displaystyle \lambda >0{,}7} ist das Gemisch zündfähig.
+  Der Zeitraum vom Einspritzbeginn bis zum Zündbeginn wird als Zündverzug bezeichnet.[N 2]
