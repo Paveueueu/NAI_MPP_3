@@ -1,5 +1,3 @@
-from gradio.exceptions import InvalidPathError
-
 from src.single_layer_classifier import SingleLayerClassifier
 
 class LanguageClassifier(SingleLayerClassifier):
@@ -64,7 +62,7 @@ def load_data_with_ratios(data_path):
     data_dict = {}
 
     if not os.path.exists(data_path):
-        raise InvalidPathError(f"Katalog {data_path} nie istnieje.")
+        raise Exception(f"Katalog {data_path} nie istnieje.")
 
     for folder in os.listdir(data_path):
         folder_path = os.path.join(data_path, folder)
